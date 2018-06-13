@@ -1,5 +1,9 @@
-h1 {
+h1,
+.item h2,
+.price {
   font-family: Helvetica;
+}
+h1 {
   font-size: 100px;
   font-weight: bold;
   color: khaki;
@@ -8,7 +12,6 @@ h1 {
 }
 
 .item h2 {
-  font-family: Helvetica;
   font-size: 32px;
   font-weight: bold;
   color: white;
@@ -27,7 +30,6 @@ h1 {
 }
 
 .price {
-  font-family: Helvetica;
   font-weight: bold;
   color: blue;
 }
